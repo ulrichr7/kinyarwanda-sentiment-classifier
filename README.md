@@ -43,3 +43,9 @@ A public model repository is the simplest arrangement for a public demo; do not 
 ## Limitations
 
 This is an educational prototype. The held-out test macro-F1 was 0.6498. The hand-selected app examples surfaced errors on negative expressions and negation. Predicted probabilities are not calibrated confidence guarantees. Review dataset/model licensing and avoid publishing user identifiers or raw social-media posts unnecessarily.
+
+## Live demo
+
+Try the deployed application: [https://kinyarwanda-sentiment-classifiergit-bcgzl5tg7g2ncymwarhjks.streamlit.app](https://kinyarwanda-sentiment-classifiergit-bcgzl5tg7g2ncymwarhjks.streamlit.app)
+
+The app predicts negative, neutral, or positive sentiment for Kinyarwanda text using the fine-tuned AfroXLM-R model.
