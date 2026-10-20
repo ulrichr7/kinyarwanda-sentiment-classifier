@@ -1,0 +1,8 @@
+{
+  "experiment": "BiLSTM",
+  "best_epoch": 5,
+  "accuracy": 0.5344827586206896,
+  "macro_precision": 0.5388671223136418,
+  "macro_recall": 0.5318894457127946,
+  "macro_f1": 0.5341628369496972
+}

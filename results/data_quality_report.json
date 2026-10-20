@@ -1,0 +1,15 @@
+{
+  "official_train_rows": 3302,
+  "validation_rows": 827,
+  "test_rows": 1026,
+  "train_rows_removed_for_overlap": 61,
+  "leakage_controlled_train_rows": 3241,
+  "train_validation_overlap_before": 32,
+  "train_test_overlap_before": 29,
+  "validation_test_overlap_before": 8,
+  "train_validation_conflicting_labels": 7,
+  "train_test_conflicting_labels": 7,
+  "validation_test_conflicting_labels": 1,
+  "train_validation_overlap_after": 0,
+  "train_test_overlap_after": 0
+}

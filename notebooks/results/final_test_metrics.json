@@ -1,0 +1,10 @@
+{
+  "model": "Davlan/afro-xlmr-base",
+  "learning_rate": 1e-05,
+  "best_validation_epoch": 3,
+  "test_examples": 1026,
+  "accuracy": 0.6500974658869396,
+  "macro_precision": 0.6600813371680779,
+  "macro_recall": 0.6620173724475961,
+  "macro_f1": 0.6498333084539981
+}

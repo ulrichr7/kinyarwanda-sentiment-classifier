@@ -1,0 +1,7 @@
+{
+  "experiment": "Word + Character TF-IDF + Logistic Regression",
+  "accuracy": 0.604679802955665,
+  "macro_precision": 0.6078357731600782,
+  "macro_recall": 0.605457186804784,
+  "macro_f1": 0.6064061850914509
+}

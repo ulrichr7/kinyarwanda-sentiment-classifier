@@ -1,0 +1,7 @@
+{
+  "experiment": "TF-IDF + Linear SVM",
+  "accuracy": 0.5443349753694581,
+  "macro_precision": 0.5464462693343559,
+  "macro_recall": 0.5436598384116819,
+  "macro_f1": 0.5448365807075729
+}

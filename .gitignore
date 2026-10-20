@@ -1,0 +1,49 @@
+# Python / notebook files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+env/
+.DS_Store
+
+# Secrets / credentials - never commit these
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Dataset copies (download or generate locally; don't commit raw tweets)
+data/raw/
+data/processed/
+*.tsv
+*.csv.tmp
+
+# Trained weights / checkpoints / model caches - host the selected model separately
+models/
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.joblib
+
+# Local result files that may contain raw tweet text
+results/test_predictions_all.csv
+results/test_misclassified_examples.csv
+results/test_error_pattern_counts.csv
+
+# Editor / operating system
+.vscode/
+.idea/
+# Local backups created before clearing notebooks
+notebooks_backup_before_clear_outputs/
+
+# Local assistant/tool-specific files
+.agents/
+.claude/
+
+# Raw test predictions and tweet-level error examples
+**/test_predictions_all.csv
+**/test_misclassified_examples.csv
+**/afroxlmr_test_errors.csv
+**/test_error_pattern_counts.csv

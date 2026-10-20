@@ -1,0 +1,9 @@
+{
+  "experiment": "TF-IDF + Logistic Regression",
+  "training_examples": 3189,
+  "validation_examples": 812,
+  "accuracy": 0.5689655172413793,
+  "macro_precision": 0.5708588668494329,
+  "macro_recall": 0.5692992613358462,
+  "macro_f1": 0.5700320224688626
+}

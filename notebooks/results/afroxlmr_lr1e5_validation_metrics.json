@@ -1,0 +1,9 @@
+{
+  "epoch": 3,
+  "learning_rate": 1e-05,
+  "training_loss": 0.6746237000408477,
+  "accuracy": 0.6625615763546798,
+  "macro_precision": 0.6706901079244244,
+  "macro_recall": 0.6734828371662508,
+  "macro_f1": 0.6614274560520106
+}

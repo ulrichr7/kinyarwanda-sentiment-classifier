@@ -1,0 +1,8 @@
+test_id,kinyarwanda_text,english_meaning,expected_sentiment,predicted_sentiment,predicted_class_probability,correct,notes
+1,Ndanezerewe cyane uyu munsi!,I am very happy today!,positive,positive,0.909,TRUE,Simple positive control
+2,Ndababaye cyane.,I am very sad.,negative,positive,0.423,FALSE,Clear negative phrase misclassified as positive
+3,Uyu munsi nagiye ku ishuri.,Today I went to school.,neutral,neutral,0.724,TRUE,Simple factual statement
+4,Iyi filime ni mbi cyane.,This film is very bad.,negative,positive,0.478,FALSE,Negative evaluation misclassified as positive; screenshot showed neutral at approximately 0.395 and negative at approximately 0.127
+5,Sinakunze iyi filime na gato.,I did not like this movie at all.,negative,neutral,0.459,FALSE,Negative phrase with negation misclassified as neutral
+6,Iyi serivisi ntabwo ari nziza.,This service is not good.,negative,neutral,0.596,FALSE,Negative phrase with negation misclassified as neutral
+7,Nishimiye iyi filime cyane.,I enjoyed this movie very much.,positive,positive,0.893,TRUE,Positive control correctly classified

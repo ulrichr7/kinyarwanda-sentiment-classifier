@@ -1,0 +1,6 @@
+NEXT STEP
+1. Create/activate the Python environment.
+2. pip install -r requirements.txt
+3. Launch notebooks/01_data_exploration.ipynb
+4. Run all cells.
+5. Send the printed split sizes, class counts, and the first few examples to the assistant.
