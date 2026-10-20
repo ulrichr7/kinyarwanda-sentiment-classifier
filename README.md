@@ -46,6 +46,8 @@ This is an educational prototype. The held-out test macro-F1 was 0.6498. The han
 
 ## Live demo
 
-Try the deployed application: [https://kinyarwanda-sentiment-classifiergit-bcgzl5tg7g2ncymwarhjks.streamlit.app](https://kinyarwanda-sentiment-classifiergit-bcgzl5tg7g2ncymwarhjks.streamlit.app)
+Open the deployed application:
+
+https://kinyarwanda-sentiment-classifiergit-bcgzl5tg7g2ncymwarhjks.streamlit.app
 
 The app predicts negative, neutral, or positive sentiment for Kinyarwanda text using the fine-tuned AfroXLM-R model.
