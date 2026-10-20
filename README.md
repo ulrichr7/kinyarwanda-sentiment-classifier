@@ -26,7 +26,7 @@ Model weights are deliberately excluded from GitHub. GitHub blocks ordinary file
 2. Deploy this GitHub repository with Streamlit Community Cloud, selecting `app.py` as the entrypoint.
 3. In Streamlit app settings, add this secret, replacing the example with your Hugging Face model repo ID:
    ```toml
-   MODEL_REPO_ID = "YOUR_HF_USERNAME/kinyarwanda-afroxlmr-sentiment"
+   MODEL_REPO_ID = "ulrich11/kinyarwanda-afroxlmr-sentiment"
    ```
 4. Restart/redeploy the app. The app will download the model from the public Hub repository when it starts.
 
